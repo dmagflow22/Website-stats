@@ -1,0 +1,7 @@
+{
+  "name": "my-plain-html-site",
+  "version": "1.0.0",
+  "dependencies": {
+    "@ampt/sdk": "^1.0.0"
+  }
+}
